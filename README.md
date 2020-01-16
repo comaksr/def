@@ -9,6 +9,6 @@ espaço em https://www.youtube.com/channel/UCkaJzN_kgCqzLu33CZcfqaQ
 
 | Autor | Descrição |
 | :---: | :--- |
-| <img src="https://avatars3.githubusercontent.com/u/30846360?s=460&v=4" width="70"> | **Generating production keys by [@Allanksr](https://github.com/Allanksr)**<br>A simple example of creating production keys<br>[Run in Gitpod](http://gitpod.io/#rodar=src/https://github.com/comaksr/def) / [Open code](https://github.com/comaksr/def/src) |
+| <img src="https://avatars3.githubusercontent.com/u/30846360?s=460&v=4" width="70"> | **Generating production keys by [@Allanksr](https://github.com/Allanksr)**<br>A simple example of creating production keys<br>[Run in Gitpod](http://gitpod.io/#rodar=src/https://github.com/comaksr/def) / [Open code](https://github.com/comaksr/def/tree/master/src) |
 |
 
